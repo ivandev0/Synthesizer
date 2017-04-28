@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/keys">
+        <file>image/A.png</file>
+        <file>image/black.png</file>
+        <file>image/CF.png</file>
+        <file>image/D.png</file>
+        <file>image/EB.png</file>
+        <file>image/G.png</file>
+        <file>image/enteredA.png</file>
+        <file>image/enteredBlack.png</file>
+        <file>image/enteredCF.png</file>
+        <file>image/enteredD.png</file>
+        <file>image/enteredEB.png</file>
+        <file>image/enteredG.png</file>
+    </qresource>
+</RCC>

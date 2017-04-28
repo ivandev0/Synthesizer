@@ -1,0 +1,73 @@
+<RCC>
+    <qresource prefix="/firstOctave">
+        <file>notes/first/A4.wav</file>
+        <file>notes/first/AB4.wav</file>
+        <file>notes/first/C4.wav</file>
+        <file>notes/first/CD4.wav</file>
+        <file>notes/first/D4.wav</file>
+        <file>notes/first/DE4.wav</file>
+        <file>notes/first/E4.wav</file>
+        <file>notes/first/F4.wav</file>
+        <file>notes/first/FG4.wav</file>
+        <file>notes/first/G4.wav</file>
+        <file>notes/first/GA4.wav</file>
+        <file>notes/first/B4.wav</file>
+    </qresource>
+    <qresource prefix="/secondOctave">
+        <file>notes/second/A5.wav</file>
+        <file>notes/second/AB5.wav</file>
+        <file>notes/second/B5.wav</file>
+        <file>notes/second/C5.wav</file>
+        <file>notes/second/CD5.wav</file>
+        <file>notes/second/D5.wav</file>
+        <file>notes/second/DE5.wav</file>
+        <file>notes/second/E5.wav</file>
+        <file>notes/second/F5.wav</file>
+        <file>notes/second/FG5.wav</file>
+        <file>notes/second/G5.wav</file>
+        <file>notes/second/GA5.wav</file>
+    </qresource>
+    <qresource prefix="/bigOctave">
+        <file>notes/big/A2.wav</file>
+        <file>notes/big/AB2.wav</file>
+        <file>notes/big/B2.wav</file>
+        <file>notes/big/C2.wav</file>
+        <file>notes/big/CD2.wav</file>
+        <file>notes/big/D2.wav</file>
+        <file>notes/big/DE2.wav</file>
+        <file>notes/big/E2.wav</file>
+        <file>notes/big/F2.wav</file>
+        <file>notes/big/FG2.wav</file>
+        <file>notes/big/G2.wav</file>
+        <file>notes/big/GA2.wav</file>
+    </qresource>
+    <qresource prefix="/lowOctave">
+        <file>notes/low/A3.wav</file>
+        <file>notes/low/AB3.wav</file>
+        <file>notes/low/B3.wav</file>
+        <file>notes/low/C3.wav</file>
+        <file>notes/low/CD3.wav</file>
+        <file>notes/low/D3.wav</file>
+        <file>notes/low/DE3.wav</file>
+        <file>notes/low/E3.wav</file>
+        <file>notes/low/F3.wav</file>
+        <file>notes/low/FG3.wav</file>
+        <file>notes/low/G3.wav</file>
+        <file>notes/low/GA3.wav</file>
+    </qresource>
+    <qresource prefix="/thirdOctave">
+        <file>notes/third/A6.wav</file>
+        <file>notes/third/AB6.wav</file>
+        <file>notes/third/B6.wav</file>
+        <file>notes/third/C6.wav</file>
+        <file>notes/third/C7.wav</file>
+        <file>notes/third/CD6.wav</file>
+        <file>notes/third/D6.wav</file>
+        <file>notes/third/DE6.wav</file>
+        <file>notes/third/E6.wav</file>
+        <file>notes/third/F6.wav</file>
+        <file>notes/third/FG6.wav</file>
+        <file>notes/third/G6.wav</file>
+        <file>notes/third/GA6.wav</file>
+    </qresource>
+</RCC>
